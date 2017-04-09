@@ -1,0 +1,15 @@
+#header{
+    background: url(../img/1.JPG) no-repeat center;
+    height: 588px;
+
+}
+#header li{
+    height: 50px;
+    color: #f0f;
+    width: 100px;
+    background: #000;
+
+}
+#header>div{
+    /*width: px;*/
+}
